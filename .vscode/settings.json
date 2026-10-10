@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "javascript": "node"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.fileDirectoryAsCwd": true
+}
